@@ -4,7 +4,7 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 ## Building Software
 
-- [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it 
+- [Building TypeScript Projects with Bazel](https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/) - a brief introduction to what Bazel is and how we can build our TypeScript projects with it
 
 ## Good Books
 
@@ -17,6 +17,8 @@ A not so curated and random list of amazingly awesome awesomeness.
 - https://kotlinlang.org/ - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference (From [Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))).
 
 ## Front-End Development
+
+- [Execution in the Kingdom of Nouns](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 
 ## Hadoop Projects
 
@@ -79,6 +81,3 @@ A not so curated and random list of amazingly awesome awesomeness.
 
 - [MacBook] (www.apple.com)
 - [Windows] (www.microsoft.com)
-
-
-
